@@ -21,12 +21,6 @@ https://job-listing-viewer.netlify.app/
 **Server:** Node, Express, MongoDB
 
 
-## Deployment
-
-Deployed on Netlify and Heroku for Frontend and Backend respectively
-
-
-
 ## Installation
 
 To install my project locally:
